@@ -1,4 +1,4 @@
-DBTeam-bot
+RSMBOT
 ============
 
 A Telegram Bot based on plugins using [tg](https://github.com/vysheng/tg).
@@ -243,4 +243,4 @@ Other interesting sites
 
 Contact us
 ------------
-You can contact us in groups said before but if you have an issue please [open](https://github.com/Josepdal/DBTeam/issues) one.
+sudo and admin bot [sudo](https://telegram.me/sorblack) .
